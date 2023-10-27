@@ -1,0 +1,15 @@
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\bin\Debug\net7.0\AP.DigitalMemoSlip.Application.deps.json
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\bin\Debug\net7.0\AP.DigitalMemoSlip.Application.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\bin\Debug\net7.0\AP.DigitalMemoSlip.Application.pdb
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\bin\Debug\net7.0\AP.DigitalMemoSlip.Domain.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\bin\Debug\net7.0\AP.DigitalMemoSlip.Domain.pdb
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.csproj.AssemblyReference.cache
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.AssemblyInfoInputs.cache
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.AssemblyInfo.cs
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.csproj.CoreCompileInputs.cache
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.csproj.CopyComplete
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\refint\AP.DigitalMemoSlip.Application.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\AP.DigitalMemoSlip.Application.pdb
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Application\obj\Debug\net7.0\ref\AP.DigitalMemoSlip.Application.dll

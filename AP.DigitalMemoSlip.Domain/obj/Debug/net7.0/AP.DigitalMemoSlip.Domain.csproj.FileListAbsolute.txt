@@ -1,0 +1,11 @@
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\bin\Debug\net7.0\AP.DigitalMemoSlip.Domain.deps.json
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\bin\Debug\net7.0\AP.DigitalMemoSlip.Domain.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\bin\Debug\net7.0\AP.DigitalMemoSlip.Domain.pdb
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.AssemblyInfoInputs.cache
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.AssemblyInfo.cs
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.csproj.CoreCompileInputs.cache
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\refint\AP.DigitalMemoSlip.Domain.dll
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\AP.DigitalMemoSlip.Domain.pdb
+D:\Users\omar_\OneDrive\Desktop\School 2023-2024\Semester 1\Applied Software Project\ASP\AP.DigitalMemoSlip.Domain\obj\Debug\net7.0\ref\AP.DigitalMemoSlip.Domain.dll
